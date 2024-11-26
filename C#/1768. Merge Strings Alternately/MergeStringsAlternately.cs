@@ -32,14 +32,14 @@ public class Solution {
         while (pointer1 < word1.Length)
         {
             mergedString.Append(word1[pointer1]);
-            pointer1++
+            pointer1++;
         }
 
        // Step 9: Add the remaining characters from word2 if any are left
         while (pointer2 < word2.Length)
         {
             mergedString.Append(word2[pointer2]);
-            pointer2++
+            pointer2++;
         }
 
         // Step 10: Convert the StringBuilder to a string and return the result
