@@ -1,0 +1,2 @@
+Problem Statement
+We are solving the Two Sum problem, where we need to find two numbers in an array that add up to a given target. If such numbers exist, we return their indices. If not, we return a placeholder result (in this case, [-1, -1]). or [0]
